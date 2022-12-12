@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FmyWorld7588&count_bg=%23151010&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-I'm Jake, iOS Developer from Seoul 🇰🇷, Currently living in 🇺🇸
+I'm Jake, iOS Developer from Seoul :kr:, Currently living in :us:
 
 ## 💪 Platforms & Languages
 

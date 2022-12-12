@@ -13,5 +13,6 @@
 
 ![myWorld7588's github stats](https://github-readme-stats.vercel.app/api?username=myWorld7588&show_icons=true)
 
-[![myWorld7588's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=myWorld7588&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&layout=compact)](https://github.com/myWorld7588)
+[![myWorld7588's github stats](github-readme-stats.vercel.app/api/top-langs/?username={사용자명}&langs_count=8)
 
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}

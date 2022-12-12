@@ -15,5 +15,3 @@
 
 [![myWorld7588's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=myWorld7588&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/myWorld7588)
 
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">

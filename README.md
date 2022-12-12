@@ -8,25 +8,18 @@
 
 ## Also Interested in ... 🐈🐾
 
-![image](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 🐈🐾🐾🐶🐾🐾😻
+![image](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
 
-https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white
-
-
-
-
-**myWorld7588/myWorld7588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+```
+- 🔭 I’m currently working on Nongshim America
+- 🌱 I’m currently learning Mobile App Dev
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+```
 
 ![myWorld7588's github stats](https://github-readme-stats.vercel.app/api?username=myWorld7588&show_icons=true)
 

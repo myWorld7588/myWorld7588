@@ -4,7 +4,7 @@
 
 ## Techs that I've used at least once
 
-![image](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=FA7343) ![image](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![image](https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=Xcode&logoColor=white) ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![image](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=FA7343) ![image](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![image](https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=Xcode&logoColor=blue) ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 
 

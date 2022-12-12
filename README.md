@@ -8,18 +8,6 @@ Techs that I've used at least once
 
 
 
-![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) //mysql
-
-https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white // free code camp
-
-https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white // udemy
-
-
-https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue // python
-
-https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white // unity
-
-
 
 
 

@@ -2,7 +2,16 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FmyWorld7588&count_bg=%23151010&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-I'm Jake, iOS Developer from Seoul :kr:, Currently living in :us:
+I'm Jake, iOS Developer currently Learning/Developing wide range of application using Swift, SwiftUI, Xcode.
+
+struct Jake: Identifiable {
+    var id = "myWorld7588"
+    var from: ["Seoul", "South Korea"]
+    var currentLocation: "USA"
+    var language: ["Korean", "English"]
+    var osLanguage: ["Swift", "C#","Python"]
+}
+
 
 ## 💪 Platforms & Languages
 

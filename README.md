@@ -13,5 +13,5 @@
 
 ![myWorld7588's github stats](https://github-readme-stats.vercel.app/api?username=myWorld7588&show_icons=true&theme=dark)
 
-![myWorld7588's github stats](http://github-readme-stats.vercel.app/api/top-langs/?username=myWorld7588&langs_count=8&theme=dark)
+![myWorld7588's github stats](http://github-readme-stats.vercel.app/api/top-langs/?username=myWorld7588&layout=compact&langs_count=8&theme=dark)
 

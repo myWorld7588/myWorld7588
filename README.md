@@ -7,8 +7,8 @@ I'm Jake, iOS Developer currently Learning/Developing wide range of application 
     var id = "myWorld7588"
     var from: ["Seoul", "South Korea"]
     var currentLocation: "USA"
-    var language: ["Korean", "English"]
-    var osLanguage: ["Swift", "C#","Python"]
+    var lang: ["Korean", "English"]
+    var programLang: ["Swift", "C#","Python"]
 
 
 

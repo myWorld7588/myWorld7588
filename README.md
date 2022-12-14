@@ -21,11 +21,11 @@ I'm Jake, iOS Developer currently Learning/Developing wide range of application 
 
 ![image](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
 
-
-![image](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
-
 ## Note
-✏️ ![myWorld7588's github stats](https://github-readme-stats.vercel.app/api?username=myWorld7588&&layout=compact&show_icons=true&theme=dark)
+✏️![image](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+
+
+ ![myWorld7588's github stats](https://github-readme-stats.vercel.app/api?username=myWorld7588&&layout=compact&show_icons=true&theme=dark)
 
 
 

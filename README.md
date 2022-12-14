@@ -23,7 +23,7 @@ I'm Jake, iOS Developer currently Learning/Developing wide range of application 
 
 ## Note
 
-<a href="https://www.google.com"> <h3>:muscle:![image](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)  </h3> </a>
+<a href="https://www.google.com"> <h3>:muscle: test  </h3> </a>
 
 ✏️![image](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 

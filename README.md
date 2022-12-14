@@ -23,9 +23,7 @@ I'm Jake, iOS Developer currently Learning/Developing wide range of application 
 
 ## Note
 
-<a href="https://www.google.com"> <h3>:muscle: test  </h3> </a>
-
-✏️![image](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+✏️![image(https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://google.com/)
 
  ![myWorld7588's github stats](https://github-readme-stats.vercel.app/api?username=myWorld7588&&layout=compact&show_icons=true&theme=dark)
 

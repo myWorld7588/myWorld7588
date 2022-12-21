@@ -40,10 +40,6 @@ Sometimes I like to write things here ... Wide range of topics regarding Swift &
 <a href="https://kindhearted-magnesium-c98.notion.site/9f679fb16afa48a6affa10532943edb6?v=4b392b2852d54437b22b524490b8a12f"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a><a href="https://kindhearted-magnesium-c98.notion.site/9f679fb16afa48a6affa10532943edb6?v=4b392b2852d54437b22b524490b8a12f"><img src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=FA7343"></a>
 
 
-<a href="https://kindhearted-magnesium-c98.notion.site/a9976df9b7c0487e8e1b8157c414bb11?v=5c4b22c09d5e4154a54b1e541fff991f"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a><a href="https://kindhearted-magnesium-c98.notion.site/a9976df9b7c0487e8e1b8157c414bb11?v=5c4b22c09d5e4154a54b1e541fff991f"><img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=blue"></a>
-
-
-
 
 
 

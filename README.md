@@ -26,8 +26,8 @@ I'm Jake, iOS Developer currently Learning/Developing wide range of application 
 <br/>
 <br/>
 
-![myWorld7588's github stats](https://github-readme-stats.vercel.app/api?username=myWorld7588&&layout=compact&show_icons=true&theme=dark)<br/>
-![myWorld7588's github stats](http://github-readme-stats.vercel.app/api/top-langs/?username=myWorld7588&layout=compact&langs_count=8&theme=dark)<br/>
+// ![myWorld7588's github stats](https://github-readme-stats.vercel.app/api?username=myWorld7588&&layout=compact&show_icons=true&theme=dark)<br/>
+// ![myWorld7588's github stats](http://github-readme-stats.vercel.app/api/top-langs/?username=myWorld7588&layout=compact&langs_count=8&theme=dark)<br/>
 
 
 <br/>

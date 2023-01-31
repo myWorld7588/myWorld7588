@@ -24,19 +24,10 @@ I'm Jake, iOS Developer currently Learning/Developing wide range of application 
 ![image](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
 
 <br/>
-<br/>
-
-
-<br/>
-<br/>
 
 
 # 💬 Note ✏📝
 Sometimes I like to write things here ... Wide range of topics regarding Swift & SwiftUI and more ...
 
 <a href="https://kindhearted-magnesium-c98.notion.site/9f679fb16afa48a6affa10532943edb6?v=4b392b2852d54437b22b524490b8a12f"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a><a href="https://kindhearted-magnesium-c98.notion.site/9f679fb16afa48a6affa10532943edb6?v=4b392b2852d54437b22b524490b8a12f"><img src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=FA7343"></a>
-
-
-
-
 

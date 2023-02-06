@@ -8,7 +8,7 @@ I'm Jake, iOS Developer currently Learning/Developing wide range of application 
     from = 🇰🇷
     currentLocation = 🇺🇸
     language = Korean,English
-    programLanguage = Swift, SwiftUI, JavaScript, C#, Python
+    programLanguage = Swift, SwiftUI, JavaScript, C#
 
 
 

@@ -7,7 +7,7 @@ I'm Jake, iOS Developer currently Learning/Developing wide range of application 
     id = myWorld7588
     from = 🇰🇷
     currentLocation = 🇺🇸
-    language = Korean,English
+    language = Korean, English
     programLanguage = Swift, SwiftUI, JavaScript, C#
 
 
@@ -21,7 +21,7 @@ I'm Jake, iOS Developer currently Learning/Developing wide range of application 
 
 # Also Interested in ... 🐈 🐾 🎮 🐈‍ 🐾 🐶
 
-![image](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
+![image](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![image](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c++&logoColor=blue)
 
 <br/>
 
